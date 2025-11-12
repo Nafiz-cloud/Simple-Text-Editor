@@ -1,0 +1,1 @@
+This is a simple text editor made using Python’s Tkinter library. It allows users to create new files, open existing text files, edit content, and save changes easily. The interface includes basic options like New, Open, Save, and Exit, along with a text area for typing.
